@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:10px 20px 40px 20px;
 }
 .banner-area{
     width:100%;
@@ -38,4 +39,19 @@ body{
     color: #eee;
     font-size: 18px;
     background: #222;
+}
+/* step one end*/
+.donate{
+    text-align: center;
+    line-height: 15px;
+    margin-top: 100px;
+  
+}
+.donate h1{
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.donate p{
+    margin-top: auto;
 }
