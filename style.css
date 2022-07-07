@@ -103,6 +103,26 @@ body{
     color: white;
     border-radius: 4px;
 }
+.main-box-item{
+    margin-top: 50px;
+    padding: 50px;
+}
+.item{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    text-align: center;
+    background-color: #ddd;
+    padding: 20px;
+    border-radius: 10px;
+}
+.img-icon{
+    width: 50px;
+    margin-left: 0px;
+    justify-content: left;
+    text-align: left;
+}
+
 /* there have something missig*/
 .donation-deffend{
     display: flex;
