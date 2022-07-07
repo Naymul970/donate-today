@@ -132,3 +132,16 @@ font-weight: 700;
     padding: 10px;
     border-radius: 5px;
 }
+footer{
+    position: absolute;
+    display: block;
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+
+}
+footer h1{
+    color: brown;
+}
