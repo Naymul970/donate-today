@@ -106,6 +106,8 @@ body{
 .main-box-item{
     margin-top: 50px;
     padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
 }
 .item{
     width: 300px;
@@ -115,6 +117,7 @@ body{
     background-color: #ddd;
     padding: 20px;
     border-radius: 10px;
+    margin-top: 20px;
 }
 .img-icon{
     width: 50px;
