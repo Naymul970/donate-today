@@ -55,42 +55,43 @@ body{
 .donate p{
     margin-top: auto;
 }
-
-.amount2 h1{
-    width: 110px;
-    height: 80px;
-    border: 1px solid rgb(36, 7, 65);
-    background-color: #ddd;
-   
-}
-.amount1{
-    width: 100px;
-    height: 80px;
-    background-color: lightgray;
-}
-.amount3{
-    width: 110px;
-    height: 80px;
-    background-color: lightgray;
-}
-
-.amount4{
-    width: 110px;
-    height: 80px;
-    background-color: lightgray;
-}
-.amount5{
-    width: 110px;
-    height: 80px;
-    background-color:lightgray;
-}
 .amount{
     display: flex;
     text-align: center;
     justify-content: center;
     margin: 10px;
-    padding: 40px;
 }
+.amount-type{
+    width: 110px;
+    height: 60px;
+    background-color: rgb(29, 231, 231);
+margin: 10px;
+
+}
+.amount-details h1{
+padding-bottom: 400px;
+margin:4px 3px 5px 5px
+
+}
+.h-edit{
+    margin: 4px 3px 5px 5px;
+    border: 2px solid gray;
+    width: 105px;
+    height: fit-content;
+}
+.amount-details2 h1{
+    padding-bottom: 400px;
+    margin:4px 3px 5px 5px
+}
+.amount-details3 h1{
+    padding-bottom: 400px;
+    margin:4px 3px 5px 5px
+}
+.amount-details4 h1{
+    padding-bottom: 400px;
+    margin:4px 3px 5px 5px
+}
+
 /* second step end*/
 .donate-now{
     text-align: center;
@@ -103,6 +104,7 @@ body{
     color: white;
     border-radius: 4px;
 }
+
 .main-box-item{
     margin-top: 50px;
     padding: 50px;
@@ -163,6 +165,7 @@ footer{
     color: white;
     text-align: center;
     line-height: 20px;
+    
 
 }
 footer h1{
